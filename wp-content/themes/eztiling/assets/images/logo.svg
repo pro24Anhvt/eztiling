@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 100" role="img" aria-labelledby="title desc">
+  <title id="title">EZTiling</title>
+  <desc id="desc">EZTiling logo with a geometric tile grid and the slogan Tiling That Delivers Value</desc>
+  <g transform="translate(2 10)">
+    <rect x="0" y="0" width="74" height="74" fill="none" stroke="#a9d5a4" stroke-width="3"/>
+    <path d="M24.7 0v74M49.3 0v74M0 24.7h74M0 49.3h74" stroke="#a9d5a4" stroke-width="2" opacity=".75"/>
+    <path d="M49.3 0H74v24.7z" fill="#a9d5a4"/>
+    <path d="M0 74h24.7V49.3z" fill="#ffffff" opacity=".94"/>
+  </g>
+  <text x="0" y="0" transform="translate(94 58) scale(.8 1)" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="71" font-weight="800" letter-spacing="-2.5">EZTILING</text>
+  <text x="0" y="0" transform="translate(95 85.5) scale(.731 1)" fill="#a9d5a4" font-family="Arial, Helvetica, sans-serif" font-size="15.75" font-weight="700" letter-spacing="3.6">TILING THAT DELIVERS VALUE</text>
+</svg>
